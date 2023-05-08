@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+button{
+  text-transform: capitalize;
+}
+h1,h2,h3,h4,h5,h6
+{
+ text-transform: capitalize;
+}
+
+.heip-text{
+  color: rgb(249, 7, 7,0.5);
+  text-transform: capitalize;
+}
